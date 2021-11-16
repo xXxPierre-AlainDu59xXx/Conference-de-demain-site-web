@@ -1,20 +1,23 @@
-.figure {
- display: block;
- margin-left: auto;
- margin-right: auto;
- width: 50%;
+header {
+ background: black;
+ height: auto;
+ text-align: center;
+ color: white;
+}
+
+body {
+ background-color: bisque;
+ color: black;
 }
 
 .banner {
  display: block;
  margin-left: auto;
  margin-right: auto;
+ height: 50%;
+ width: 50%;
 }
 
-.paragraph {
- text-align: justify;
-}
-
-.centered {
+h1 {
  text-align: center;
 }
