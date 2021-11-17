@@ -1,5 +1,5 @@
-header {
- background: black;
+head {
+ background-color: black;
  height: auto;
  text-align: center;
  color: white;
@@ -20,4 +20,75 @@ body {
 
 h1 {
  text-align: center;
+}
+
+#section_Introduction {
+    background-color: white;
+    text-align: center;
+}
+
+#section_Presentation {
+    background-color: white;
+    text-align: center;
+}
+
+.col-md-8 {
+    border: outset;
+    border-width: 3px;
+    border-color: black;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 60px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.col-md-12 {
+    border: outset;
+    border-width: 3px;
+    border-color: black;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 60px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.col-md-24 {
+    border: outset;
+    border-width: 3px;
+    border-color: black;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.big_box {
+    border: none;
+    background-color: white;
+}
+
+#section_Themes {
+    background-color: white;
+    text-align: center;
+}
+
+#section_Objectifs {
+    background-color: white;
+    text-align: center;
+}
+
+#section_Contact {
+    background-color: white;
+    text-align: center;
 }
