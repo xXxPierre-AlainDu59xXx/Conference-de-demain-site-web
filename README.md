@@ -31,7 +31,6 @@
         <div class="album py-5 bg-light">
             <div class="container">
                 <h1>💬 Thèmes 💬</h1>
-                <hr size="1" width="100%" color="lightgray">
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                     <div class="col">
                         <div class="card shadow-sm">
@@ -74,7 +73,6 @@
         <div class="album py-5 bg-light">
             <div class="container">
                 <h1>❓ Qui sommes-nous ?❓ </h1>
-                <hr size="1" width="100%" color="lightgray">
                 <p class="card-text" style="text-align: justify">L'association Conférence de demain est une initiative étudiante de CESI Ecole d'Ingénieurs : les étudiants de la filière informatique lilloise vous proposeront chaque année d'organiser une série de conférences sur la thématique des villes durables dans le cadre de leur dernière année de formation.<br>
                 L'objectif sera d'échanger autour des thématiques technologiques, énergétiques et écologiques de notre futur.</p>
             </div>
@@ -83,7 +81,6 @@
         <div class="album py-5 bg-light">
             <div class="container">
                 <h1>⏳ Déroulement ⏳</h1>
-                <hr size="1" width="100%" color="lightgray">
                 <p class="card-text">La conférence aura lieu le <strong>13/01/2020</strong> au <strong>Quai des Vignes</strong> à <strong>Roubaix</strong> (à confirmer).<br><br>
                 13h45 : Accueil du public<br>
                 14h15 : Introduction et présentations 👋<br><br>
