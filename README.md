@@ -35,7 +35,7 @@
                         <div class="card shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title" style="font-weight: bold;">☁ L'Énergie du Cloud ☁</h5>
-                                <p class="card-text">TODO</p>
+                                <p class="card-text">Comment le Cloud peut continuer à fonctionner et à être de plus en plus utilisé tout en réduisant son impact environnemental et devenir une source d'énergie pour notre confort et notre cadre de vie</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <small class="text-muted">20 mins</small>
                                 </div>
@@ -46,7 +46,7 @@
                         <div class="card shadow-sm">
                             <div class="card-body">
                                 <h5 class="card-title" style="font-weight: bold;">⚡ Réseau Électrique Intelligent ⚡</h5>
-                                <p class="card-text">TODO</p>
+                                <p class="card-text">Les réseaux électriques intelligents ont pour but de proposer des modèles de réseaux électrique pour nos villes de demain. En effet, l’électricité est l’énergie de plus en plus utilisée par les particuliers, à l’instar des énergies fossiles.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <small class="text-muted">20 mins</small>
                                 </div>
@@ -58,7 +58,7 @@
                             <div class="card-body">
                                 <h5 class="card-title" style="font-weight: bold;">🧠 L'Intelligence Artificielle au
                                     Service des villes 🧠</h5>
-                                <p class="card-text">TODO</p>
+                                <p class="card-text">L'attente devant un feu de circulation représente énormément de temps perdu et une pollution conséquente. Comment l'intelligence artificielle peut nous aider à optimiser ces flux dans la ville ?</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <small class="text-muted">20 mins</small>
                                 </div>
